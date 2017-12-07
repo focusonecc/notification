@@ -1,0 +1,2 @@
+# notification
+Django notification application 
