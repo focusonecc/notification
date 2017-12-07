@@ -1,7 +1,9 @@
 # notification application integrated with other notification service
 
 ## 1. Structure Description
-![notification app structure](./blob/master/docs/images/notification-app.png)
+
+    ![notification app structure](./blob/master/docs/images/notification-app.png)
+
 
 ## 2. Application Usage
 
