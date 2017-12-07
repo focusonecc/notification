@@ -1,4 +1,4 @@
-# notification application integrated with other notification service
+# notification application integrated with other notification services
 
 ## 1. Structure Description
 
