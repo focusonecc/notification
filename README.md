@@ -1,4 +1,4 @@
-# notification application integrated with other notification services
+# 【Deprecated: 转移到了 common中来维护】notification application integrated with other notification services
 
 ## 1. Structure Description
 
